@@ -102,17 +102,8 @@ Exercises and university practice: functions, pointers, arrays, and problem-solv
 - 🔹 Learn professional **Git and GitHub** workflows
 - 🔹 Build a **portfolio** of completed projects
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
-## `06` ✦ Snake Game 🐍
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YAZQ39/YAZQ39/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YAZQ39/YAZQ39/output/github-snake.svg"/>
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/YAZQ39/YAZQ39/output/github-snake-dark.svg" width="100%"/>
-</picture>
 
 <br/>
 
