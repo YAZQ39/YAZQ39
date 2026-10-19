@@ -44,7 +44,6 @@ A personal website built with HTML and CSS to showcase my work and learning jour
 
 **Tech:** HTML · CSS
 
-[View Project](https://github.com/YAZQ39/YOUR_PORTFOLIO_REPO)
 
 </td>
 <td width="50%">
@@ -55,7 +54,6 @@ A collection of C++ exercises covering programming fundamentals, functions, poin
 
 **Tech:** C++
 
-[View Project](https://github.com/YAZQ39/YOUR_CPP_REPO)
 
 </td>
 </tr>
